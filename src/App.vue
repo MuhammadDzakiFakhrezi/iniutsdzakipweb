@@ -26,7 +26,7 @@
 <script>
 import { ref } from "vue";
 import axios from "axios";
-import NavBar from "../../utspwebdzaki/src/components/NavBar.vue";
+import NavBar from "../../iniutsdzaki/src/components/NavBar.vue";
 
 export default {
   components: {
